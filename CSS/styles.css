@@ -1,0 +1,30 @@
+body {
+    background-color: #FFF4D2;
+ }
+
+ hr {
+  border-style: none;
+  border-top-style: dotted;
+  border-color: gray;
+  border-width: 5px;
+  width: 5%;
+ }
+ 
+ h1:hover { background-color: aquamarine;
+
+ }
+
+
+ h1 {
+    color: #4D455D
+ }
+
+ h2 {
+    color: #4D455D;
+ }
+
+ h3 {
+    color: #4D455D;
+ }
+
+ 
